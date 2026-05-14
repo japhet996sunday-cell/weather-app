@@ -5,7 +5,7 @@ A JavaScript weather application that fetches live weather data using the OpenWe
 ## Features
 - Search weather by city
 - Real-time weather data
-- Temperature display
+- Temperature displayy
 - Humidity display
 - Error handling
 - Responsive design
@@ -16,3 +16,9 @@ A JavaScript weather application that fetches live weather data using the OpenWe
 - JavaScript
 - Fetch API
 - OpenWeather API 
+
+Live Demo
+https://japhet996sunday-cell.github.io/weather-app/
+
+Repo link
+https://github.com/japhet996sunday-cell/weather-app
